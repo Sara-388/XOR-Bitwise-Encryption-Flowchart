@@ -1,1 +1,4 @@
+<img alt="Flowchart" src="https://tinyurl.com/26ef3o7a"
+width="400" align="right">
 
+<img alt="Flowchart" src="https://tinyurl.com/26ef3o7a" width="100" align="right">
